@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# stupid mac file
+.DS_Store
+
+# virtual environment
+/githubactions
+pyvenv.cfg
+/bin
+
